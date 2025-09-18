@@ -17,6 +17,4 @@
 
 ### 📊 GitHub Stats
 ---
-
-### ✨ Fun fact
 I believe technology + creativity can solve real-world problems 🚀
