@@ -1,6 +1,7 @@
-# 💫 About Me:
-# 👋 Hi, I'm Shawkt!<br>🎓 Mechatronics Engineering student sharing my journey, projects, and learnings in tech.  <br>💻 Passionate about robotics, AI, and embedded systems.  <br>📍 Based in Mosul, Iraq  <br><br>---<br><br>### 🔭 Currently working on<br>---<br><br>### 🌱 Currently learning<br>---<br><br>### 📺 Find me online<br>- 📷 Instagram: [@yourhandle]([https://instagram.com/yourhandle](https://www.instagram.com/5e50n?igsh=b3Jpd2l2bDJzbnEz))  <br>---<br><br>### 📊 GitHub Stats<br>---<br>
-
+# 👋 Hi, I'm Shawkt
+🎓 Mechatronics Engineering student sharing my journey, projects, and learnings in tech.  
+💻 Passionate about robotics, AI, and embedded systems.  
+📍 Based in Mosul, Iraq  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5e50n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5e50n) 
