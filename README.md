@@ -28,7 +28,6 @@ Final-year Mechatronics Engineering student at the University of Mosul. I build 
 | Project | Description | Stack |
 |---|---|---|
 | [**GALAXY**](https://github.com/5e50n/GALAXY) · [Live](https://5e50n.github.io/GALAXY/) | 🥇 **1st place, ASI ORBIT Hackathon 2026.** Light-pollution AI that corrects satellite sky-brightness data with ground measurements, cutting error by **25.7%**. Includes a telescope guide, a policy simulator, and planet positions validated against NASA JPL. | Python · ML · JavaScript · Vite |
-| [**Thalassemia App**](https://github.com/5e50n/thalsema-APK) | Android app supporting thalassemia patients, part of a smart-infusion device project. | Android |
 | **Ultimate Studio** | Web control studio for a Makeblock Ultimate 2.0 robot (MegaPi) over Bluetooth. | JavaScript · Web Bluetooth |
 | **BMO** | Voice-activated Arabic medical assistant, featured in the Student Encyclopedia. | Python · Speech AI |
 | **Business Systems** | Booking platforms, a tire-logistics bot, and purchase automation (Google Sheets + Odoo) for live clients. | Next.js · Supabase · Python |
